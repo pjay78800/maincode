@@ -1,1 +1,1 @@
-print('jay is best')
+print('jay is good')
